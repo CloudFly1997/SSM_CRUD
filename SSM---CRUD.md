@@ -22,7 +22,7 @@
 
 ## 环境搭建
 
-![环境搭建](https://github.com/CloudFly1997/SSM_CRUD/blob/master/SSM---CRUD.assets/1.jpg/1.jpg)
+![环境搭建](https://github.com/CloudFly1997/SSM_CRUD/blob/master/SSM---CRUD.assets/1.jpg)
 
 ### pom.xml
 
