@@ -22,7 +22,7 @@
 
 ## 环境搭建
 
-![image-20200107154208195](SSM---CRUD.assets/image-20200107154208195.png)
+![image-20200107154208195](./SSM---CRUD.assets/image-20200107154208195.png)
 
 ### pom.xml
 
@@ -145,7 +145,7 @@
 
 ## SSM 配置文件
 
-![image-20200107163508212](SSM---CRUD.assets/image-20200107163508212.png)
+![image-20200107163508212](./SSM---CRUD.assets/image-20200107163508212.png)
 
 ### web.xml
 
@@ -486,7 +486,7 @@ create table tbl_employee (
 
 - 使用
 
-  ![image-20200107231227005](SSM---CRUD.assets/image-20200107231227005.png)
+  ![image-20200107231227005](./SSM---CRUD.assets/image-20200107231227005.png)
 
 
 
