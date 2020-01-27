@@ -22,7 +22,7 @@
 
 ## 环境搭建
 
-![image-20200107154208195](./SSM---CRUD.assets/image-20200107154208195.png)
+![环境搭建](https://github.com/CloudFly1997/SSM_CRUD/tree/master/SSM---CRUD.assets/image-20200107154208195.png)
 
 ### pom.xml
 
@@ -145,7 +145,7 @@
 
 ## SSM 配置文件
 
-![image-20200107163508212](./SSM---CRUD.assets/image-20200107163508212.png)
+![项目](https://github.com/CloudFly1997/SSM_CRUD/tree/master/SSM---CRUD.assets/image-20200107163508212.png)
 
 ### web.xml
 
@@ -486,7 +486,7 @@ create table tbl_employee (
 
 - 使用
 
-  ![image-20200107231227005](./SSM---CRUD.assets/image-20200107231227005.png)
+  ![MyBatis 逆向工程 使用](https://github.com/CloudFly1997/SSM_CRUD/tree/master/SSM---CRUD.assets/image-20200107231227005.png)
 
 
 
